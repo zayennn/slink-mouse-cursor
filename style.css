@@ -1,0 +1,13 @@
+html, body {
+  margin:0;
+  padding:0;
+  width:100vw;
+  min-height:100vh;
+  background: linear-gradient(#fee, #fcc);
+}
+
+canvas {
+  position:fixed;
+  width:100%;
+  height:100%;
+}
